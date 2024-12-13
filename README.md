@@ -35,11 +35,11 @@ measures of variation in fundamental frequency
 *   DFA - Signal fractal scaling exponent
 *   spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation'
 
-<h2>Models</h2>
+**Models**
 *   SVM - Support Vector Machine
 *   KNN - K Nearest Neighbors Classification
 
-<h2>Accuracies</h2>
+**Accuracies**
 *   SVM: Training Accuracy: 0.94, Testing Accuracy: 0.90
 *   KNN: Training Accuracy: 0.95, Testing Accuracy: 0.92
 
